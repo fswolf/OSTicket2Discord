@@ -9,4 +9,4 @@ Creating a new instance:
 ![image](https://github.com/user-attachments/assets/e5fa94ae-93d8-4dc6-af26-51efad92a80d)
 
 New tickets will be posted to discord room with information summary.
-<img width="600" alt="d8fbeabe4a941ef46e452d402c514450" src="https://github.com/user-attachments/assets/e4f70687-8882-4286-9dd6-60a0cdd9adf6" />
+![d8fbeabe4a941ef46e452d402c514450](https://github.com/user-attachments/assets/4357be42-99bb-4435-b7f4-49ff1a7cd41c)
