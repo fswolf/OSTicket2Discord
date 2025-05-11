@@ -1,5 +1,7 @@
 Discord Notifier for osTicket
 
+Copy php files into there own directory called `discord` inside the plugins folder.
+
 Installing the plugin:
 ![image](https://github.com/user-attachments/assets/3bad3e2c-6ce3-4009-ab14-d3055a572871)
 
